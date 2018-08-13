@@ -10,7 +10,7 @@ Simple Pharmacy Helper written in C# that supports:
 
 ## How to run?
 1. Download this repository.
-2. Open folder SQL
-3. Run SQLDatabase.sql using SQL Server Management Studio to create Database.
-4. Run Pharmacy Helper.sln using Visual Studio
+2. Open folder `SQL`
+3. Run `SQLDatabase.sql` using SQL Server Management Studio to create Database.
+4. Run `Pharmacy Helper.sln` using Visual Studio
 5. Press F5 to start debugging.
